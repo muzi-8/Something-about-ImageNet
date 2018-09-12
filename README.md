@@ -6,7 +6,7 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 # 目录
 ## Part1:ImageNet数据集的前世今生　（进行中...）
 ## Part2:ImageNet数据集的下载　（Ｔｏｄｏ）
-## Part3:ImageNet数据集的准备　（ＴOｄｏ）
+## Part3:ImageNet数据集的准备　（Ｔｏｄｏ）
 ### Tensorflow框架  
 ### Pytorch框架
 ## 参考
