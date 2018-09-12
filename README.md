@@ -8,6 +8,7 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 ### Pytorch框架
 ## 参考
 ### Part1
+- [ImageNet官网：About ImageNet](http://www.image-net.org/about-stats)
 ### Part2
 - [csdn: ImageNet数据下载](https://blog.csdn.net/weixin_41043240/article/details/80305311)
 ### Part3
