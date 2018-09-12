@@ -9,6 +9,6 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 ## 参考
 ### Part1
 ### Part2
-
+- [csdn: ImageNet数据下载](https://blog.csdn.net/weixin_41043240/article/details/80305311)
 ### Part3
 注：如若感觉不错，麻烦star一下（比心）；由于一直处于更新的状态，千万不要fork。
