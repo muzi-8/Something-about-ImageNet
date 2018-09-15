@@ -19,6 +19,7 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 #### Part3.1 
 - [TF-Slim ImageNet数据集制作](https://blog.csdn.net/Gavin__Zhou/article/details/80242998)
 - [使用TensorFlow-Slim进行图像分类](https://lijiancheng0614.github.io/2017/06/29/2017_06_29_TensorFlow-Slim-image-classification/)
+- [tensorflow读取图片的方法](https://blog.csdn.net/uestc_c2_403/article/details/74435286)
 #### Part3.2
 
 注：如若感觉不错，麻烦star一下（比心）；由于一直处于更新的状态，千万不要fork。
