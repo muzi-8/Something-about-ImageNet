@@ -9,6 +9,7 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 ## Part3:ImageNet数据集的准备　（Ｔｏｄｏ）
 ### Part3.1 Tensorflow框架  
 ### Part3.2 Pytorch框架
+## Part4:python使用细节
 
 ## 参考
 ### Part1
@@ -23,5 +24,8 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 - [tensorflow读取图片的方法](https://blog.csdn.net/uestc_c2_403/article/details/74435286)
 #### Part3.2
 - [Pytorch的mean和std调查](https://blog.csdn.net/raby_gyl/article/details/80982375)
+### Part4
+- [OpenCV-Python——图片的加载、显示、保存](https://www.jianshu.com/p/ae510711e7ab)
+- [Python中的二维数组(list与numpy.array)](https://blog.csdn.net/qq_30490125/article/details/51445390)
 
 注：如若感觉不错，麻烦star一下（比心）；由于一直处于更新的状态，千万不要fork。
