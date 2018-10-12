@@ -9,6 +9,7 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 ## Part3:ImageNet数据集的准备　（Ｔｏｄｏ）
 ### Part3.1 Tensorflow框架  
 ### Part3.2 Pytorch框架
+
 ## 参考
 ### Part1
 - [ImageNet官网：About ImageNet](http://www.image-net.org/about-stats)
@@ -21,5 +22,5 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 - [使用TensorFlow-Slim进行图像分类](https://lijiancheng0614.github.io/2017/06/29/2017_06_29_TensorFlow-Slim-image-classification/)
 - [tensorflow读取图片的方法](https://blog.csdn.net/uestc_c2_403/article/details/74435286)
 #### Part3.2
-
+- [Pytorch的mean和std调查](https://blog.csdn.net/raby_gyl/article/details/80982375)
 注：如若感觉不错，麻烦star一下（比心）；由于一直处于更新的状态，千万不要fork。
