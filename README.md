@@ -14,6 +14,7 @@ AI大行其道，然而在实验室的我们，可能都会从大型图像数据
 ## 参考
 ### Part1
 - [ImageNet官网：About ImageNet](http://www.image-net.org/about-stats)
+- [github: imagenet_validation](https://github.com/calebrob6/imagenet_validation)
 ### Part2
 - [csdn: ImageNet数据下载](https://blog.csdn.net/weixin_41043240/article/details/80305311)
 - [简书：深度学习视觉领域常用数据集汇总](https://www.jianshu.com/p/9990284bc4d5)
